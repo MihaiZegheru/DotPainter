@@ -2,10 +2,10 @@ from PIL import Image, ImageDraw
 from math import floor
 
 # Input file path
-INPUT_FILE = "image.jpg"
+INPUT_FILE = ""
 
 # Output file path
-OUTPUT_FILE = "newImage.png"
+OUTPUT_FILE = ""
 
 # Space between the painted dots (in pixels)
 SPACE_BETWEEN_DOTS = 30
